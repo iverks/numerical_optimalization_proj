@@ -1,0 +1,3 @@
+gurobipy-stubs
+gurobipy
+numpy
